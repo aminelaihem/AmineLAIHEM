@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.PNG" width="100%" />
+</p>
 # Hi, I'm Amine 👋
 
 Full Stack Developer focused on backend engineering, software architecture, AI-powered applications and scalable products.
