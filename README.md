@@ -1,261 +1,214 @@
 <p align="center">
-  <img src="./assets/banner.PNG" width="100%" />
+  <img src="./assets/banner.PNG" width="100%" alt="Amine LAIHEM banner" />
 </p>
-# Hi, I'm Amine 👋
 
-Full Stack Developer focused on backend engineering, software architecture, AI-powered applications and scalable products.
+<h1 align="center">Hi, I'm Amine 👋</h1>
 
-I build web, desktop and AI solutions from concept to production using TypeScript, Python and modern cloud-native practices.
+<p align="center">
+  <strong>Full Stack Developer</strong> · Backend & Architecture · AI-powered products
+</p>
 
----
+<p align="center">
+  I design maintainable systems and ship web, desktop & AI solutions from idea to production.
+</p>
 
-## About Me
-
-- 🇫🇷 Based in France
-- 💼 Full Stack Developer
-- 🏗️ Backend & Software Architecture
-- 🤖 AI & LLM Applications
-- 🚀 Product Development
-- 📚 Continuous Learner
-
-I enjoy designing maintainable systems, building scalable APIs and transforming ideas into production-ready products.
-
----
-
-# Tech Stack
-
-## Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+<p align="center">
+  <a href="https://linkedin.com/in/laihem-amine">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/France-🇫🇷-2D3748?style=for-the-badge" alt="Based in France" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20opportunities-22C55E?style=for-the-badge" alt="Open to opportunities" />
+</p>
 
 ---
 
-## Backend
+## About
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=flat)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+```text
+🇫🇷  France
+💼  Full Stack Developer
+🏗️  Backend & Software Architecture
+🤖  AI & LLM Applications
+🚀  Product Development
+📚  Continuous learner
+```
 
 ---
 
-## Databases
+## Tech Stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+### Core
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py&perline=8" alt="TypeScript, JavaScript, Python" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,django,express,nodejs&perline=8" alt="Backend stack" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular&perline=8" alt="Frontend stack" />
+</p>
+
+### Data & Infra
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,azure,vercel&perline=8" alt="Data and infra" />
+</p>
+
+### Quality, Observability & AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local%20AI-6366F1?style=flat-square" />
+</p>
 
 ---
 
-## DevOps
+## Featured Projects
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📬 Nemeton
 
-## Observability & Quality
+Local-first **Outlook → Teams** assistant.
 
-Prometheus • Grafana • Sentry • k6 • SonarQube • OpenAPI • Jest • Supertest • Vitest • Playwright
+Electron + React + TypeScript app that turns emails into structured, actionable briefs.
 
----
+**Highlights**
+- Electron · Microsoft Graph · Ollama
+- SQLite · automated pipeline · Zod
+- Vitest · Playwright · privacy-first
 
-## AI
+</td>
+<td width="50%" valign="top">
 
-LangChain • Ollama • Mistral • Llama • Local AI • AI Integration
+### 🍽️ Savoors
 
----
+Marketplace connecting **private chefs** and customers.
 
-# Featured Projects
+**Stack**
+NestJS · Next.js · PostgreSQL · Stripe Connect · Docker · CI/CD · OpenAPI · VPS
 
-## 📬 Nemeton
-
-Local-first Outlook → Teams assistant.
-
-Electron + React + TypeScript application that transforms Outlook emails into structured and actionable briefs.
-
-### Highlights
-
-- Electron architecture
-- Microsoft Graph integration
-- Local LLM with Ollama
-- SQLite database
-- Automated processing pipeline
-- Zod validation
-- Vitest & Playwright
-- Privacy-first approach
-
----
-
-## 🍽️ Savoors
-
-Marketplace connecting private chefs and customers.
-
-### Stack
-
-- NestJS
-- Next.js
-- PostgreSQL
-- Stripe Connect
-- Docker
-- CI/CD
-- OpenAPI
-- VPS Deployment
-
-### Highlights
-
-- End-to-end fullstack architecture
-- Payment workflows
-- Booking management
-- Monitoring & Observability
+**Highlights**
+- Full-stack architecture · payments
+- Booking flows · monitoring & observability
 - Production-ready backend
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🤖 AI Platform
+### 🤖 AI Platform
 
-AI-powered application built around FastAPI, PostgreSQL and LangChain.
+AI-powered app built around **FastAPI**, PostgreSQL and LangChain.
 
-### Highlights
-
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- Open-source LLMs
-- LangChain orchestration
+**Highlights**
+- FastAPI · SQLAlchemy · PostgreSQL
+- Open-source LLMs · LangChain orchestration
 - Business workflow automation
 
----
+</td>
+<td width="50%" valign="top">
 
-# Professional Experience
+### 🛒 ETICShop · ☁️ MyEticNet
 
-## Assystem
+B2B & SaaS solutions at **ETIC Europe**.
 
-### Full Stack Developer
+**ETICShop** — Node.js · Prisma · React · Next.js · Docker · SonarQube
 
-Development of internal business applications and transversal IT referent role.
+**MyEticNet** — PHP · MySQL · internal SaaS tools
 
-Key contributions:
+**Corporate site** — WordPress · SEO · UX · performance
 
-- Python & Django applications
-- React interfaces
-- PostgreSQL databases
-- AI/ML integrations
-- Architecture workshops
-- DAT & DEX documentation
-- Docker & CI/CD
-- Technical framing and business analysis
+</td>
+</tr>
+</table>
 
 ---
 
-## ETIC Europe
+## Experience
 
-### Full Stack Developer
+### Assystem — Full Stack Developer
 
-Development of B2B and SaaS solutions.
+Internal business apps & transversal IT referent.
 
-Projects:
-
-### 🛒 ETICShop
-
-- Node.js & Express API
-- PostgreSQL & Prisma
-- React & Next.js
-- Docker
-- CI/CD
-- SonarQube
-
-### ☁️ MyEticNet
-
-- PHP
-- MySQL
-- SaaS platform
-- Internal business tools
-
-### 🌍 Corporate Website
-
-- WordPress
-- SEO optimization
-- UX improvements
-- Performance optimization
+`Python` `Django` `React` `PostgreSQL` `AI/ML` `Docker` `CI/CD` `Architecture` `DAT & DEX`
 
 ---
 
-# Early Professional Experience
+### ETIC Europe — Full Stack Developer
 
-## Sadem Informatique (2022 → 2024)
-
-Three consecutive internships focused on full-stack development.
-
-### Internal Management Application
-
-- MERN architecture
-- Node.js & Express
-- React
-- MongoDB
-- JWT Authentication
-
-### Collaborative Project Platform
-
-- REST APIs
-- MongoDB & Mongoose
-- Angular
-- Authentication & Authorization
-- Jest & Swagger
-
-### Human Resources Management System
-
-- PostgreSQL
-- React
-- Express
-- OAuth & JWT
-- Swagger
-- Testing & Documentation
-
-These projects strengthened my foundations in backend development, frontend engineering, software architecture and software quality.
+B2B and SaaS products — see **Featured Projects** above.
 
 ---
 
-# Current Focus
+### Sadem Informatique — Internships *(2022 → 2024)*
 
-- Backend Engineering
-- Software Architecture
-- AI Applications
-- Product Development
-- Developer Experience
-- Observability
-- Scalable Systems
+Three consecutive internships across full-stack delivery.
 
----
-
-# Philosophy
-
-> Build products that solve real problems.
-
-> Prioritize maintainability over complexity.
-
-> From idea → architecture → production.
+| Project | Stack |
+| --- | --- |
+| Internal Management App | MERN · JWT |
+| Collaborative Platform | REST · MongoDB · Angular · Jest · Swagger |
+| HR Management System | PostgreSQL · React · Express · OAuth · Swagger |
 
 ---
 
-# Connect With Me
+## Current Focus
 
-💼 LinkedIn: https://linkedin.com/in/laihem-amine
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Applications-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Development-14532D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer%20Experience-7C2D12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability-831843?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scalable%20Systems-1E3A8A?style=for-the-badge" />
+</p>
 
-📍 France
+---
 
-🚀 Open to exciting opportunities and collaborations
+## Philosophy
+
+<p align="center">
+  <em>Build products that solve real problems.</em><br/>
+  <em>Prioritize maintainability over complexity.</em><br/>
+  <em>From idea → architecture → production.</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e7490&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <strong>Let's build something meaningful.</strong><br/>
+  <a href="https://linkedin.com/in/laihem-amine">linkedin.com/in/laihem-amine</a>
+</p>
